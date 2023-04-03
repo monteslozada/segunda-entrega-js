@@ -1,0 +1,47 @@
+
+// Definir el array de objetos de juegos de PS4
+
+
+let juegosPS4 = [
+    { nombre: 'The Last of Us Part II', lanzamiento: 2020 },
+    { nombre: 'Ghost of Tsushima', lanzamiento: 2020 },
+    { nombre: 'Marvel\'s Spider-Man', lanzamiento: 2018 },
+    { nombre: 'God of War', lanzamiento: 2018 },
+    { nombre: 'Horizon Zero Dawn', lanzamiento: 2017 },
+    { nombre: 'Uncharted 4: A Thief\'s End', lanzamiento: 2016 },
+    { nombre: 'Bloodborne', lanzamiento: 2015 },
+    { nombre: 'The Order: 1886', lanzamiento: 2015 },
+    { nombre: 'Infamous: Second Son', lanzamiento: 2014 },
+    { nombre: 'Killzone: Shadow Fall', lanzamiento: 2013 },
+    { nombre: 'Nioh', lanzamiento: 2017 },
+    { nombre: 'Persona 5', lanzamiento: 2017 },
+    { nombre: 'Yakuza 0', lanzamiento: 2017 },
+    { nombre: 'Resident Evil 7: Biohazard', lanzamiento: 2017 },
+    { nombre: 'Until Dawn', lanzamiento: 2015 },
+    { nombre: 'Ratchet & Clank', lanzamiento: 2016 },
+    { nombre: 'Driveclub', lanzamiento: 2014 },
+    { nombre: 'Gran Turismo Sport', lanzamiento: 2017 },
+    { nombre: 'Street Fighter V', lanzamiento: 2016 },
+    { nombre: 'Tekken 7', lanzamiento: 2017 },
+    { nombre: 'Soulcalibur VI', lanzamiento: 2018 },
+    { nombre: 'NBA 2K21', lanzamiento: 2020 },
+    { nombre: 'FIFA 21', lanzamiento: 2020 },
+    { nombre: 'Madden NFL 21', lanzamiento: 2020 },
+    { nombre: 'WWE 2K20', lanzamiento: 2019 },
+    { nombre: 'The Elder Scrolls V: Skyrim Special Edition', lanzamiento: 2016 },
+    { nombre: 'Assassin\'s Creed Odyssey', lanzamiento: 2018 },
+    { nombre: 'Red Dead Redemption 2', lanzamiento: 2018 },
+    { nombre: 'Shadow of the Colossus', lanzamiento: 2018 },
+    { nombre: 'The Witcher 3: Wild Hunt', lanzamiento: 2015 },
+    { nombre: 'Metal Gear Solid V: The Phantom Pain', lanzamiento: 2015 },
+    { nombre: 'Dark Souls III', lanzamiento: 2016 },
+    { nombre: 'Fallout 4', lanzamiento: 2015 },
+    { nombre: 'NieR: Automata', lanzamiento: 2017 },
+    { nombre: 'Bloodstained: Ritual of the Night', lanzamiento: 2019 },
+    { nombre: 'Crash Bandicoot N. Sane Trilogy', lanzamiento: 2017 },
+    { nombre: 'Spyro Reignited Trilogy', lanzamiento: 2018 },
+    { nombre: 'Kingdom Hearts III', lanzamiento: 2019 },
+    { nombre: 'Final Fantasy XV', lanzamiento: 2016 },
+]
+
+
