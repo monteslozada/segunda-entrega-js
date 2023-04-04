@@ -2,6 +2,8 @@ alert('Bienvenido a Game Store ')
 
 let lanzamientoIngresado;
 
+// pedir al usuario que ingrese el año de lanzamineto de su juego
+
 while (isNaN(lanzamientoIngresado)) {
   lanzamientoIngresado = parseInt(prompt("Ingrese el año de lanzamiento del juego que desea cambiar:"));
 }
@@ -13,7 +15,8 @@ while (juegosCompatibles.length === 0) {
   lanzamientoIngresado = parseInt(prompt("Ingrese el año de lanzamiento de su juego:"));
   juegosCompatibles = juegosPS4.filter((juego) => juego.lanzamiento === lanzamientoIngresado);
 }
-
+ //lista de juegos compatibles
+ 
 const listaJuegos = juegosCompatibles.map((juego, index) => `${index + 1}. ${juego.nombre}`).join("\n");
 const juegoElegido = parseInt(prompt(`Los juegos compatibles con el año de lanzamiento ingresado son:\n${listaJuegos}\nElija un número:`));
 
