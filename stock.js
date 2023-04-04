@@ -2,7 +2,7 @@
 // Definir el array de objetos de juegos de PS4
 
 
-let juegosPS4 = [
+const juegosPS4 = [
     { nombre: 'The Last of Us Part II', lanzamiento: 2020 },
     { nombre: 'Ghost of Tsushima', lanzamiento: 2020 },
     { nombre: 'Marvel\'s Spider-Man', lanzamiento: 2018 },
