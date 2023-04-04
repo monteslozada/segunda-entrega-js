@@ -1,3 +1,4 @@
+alert('Bienvenido a Game Store ')
 
 let lanzamientoIngresado;
 
